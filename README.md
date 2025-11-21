@@ -1,4 +1,6 @@
-## Hi there 👋
+## 👋 안녕하세요, 임베디드 소프트웨어 개발자 허진경입니다.
+
+주요 프로젝트
 
 <!--
 **Heo157/Heo157** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
