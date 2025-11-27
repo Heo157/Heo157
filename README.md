@@ -9,10 +9,10 @@
 
 <div align="center">
 
-#### Embedded · Robotics · Automotive Software Developer
+<!--#### Embedded · Robotics · Automotive Software Developer
 
 센서 · 카메라 · 모터 · 디스플레이 · 네트워크를  
-**“실제 하드웨어 동작 + 화면(UI)”** 로 연결하는 임베디드/로봇/차량 소프트웨어 개발자를 목표로 하고 있습니다.
+**“실제 하드웨어 동작 + 화면(UI)”** 로 연결하는 임베디드/로봇/차량 소프트웨어 개발자를 목표로 하고 있습니다.-->
 
 ---
 
