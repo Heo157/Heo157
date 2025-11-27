@@ -28,14 +28,14 @@
 
 ---
 
-## 🧑‍💻 About Me
+<!--## 🧑‍💻 About Me
 
 - 전자공학 전공, **임베디드 소프트웨어 / 로봇 / 차량용 소프트웨어** 집중
 - Arduino, STM32, Raspberry Pi, AGL(Automotive Grade Linux), Linux Device Driver, ROS 기반 프로젝트 경험
 - **하드웨어(센서·모터·RFID 등) + 펌웨어 + 상위 제어(ROS/AGL/Flutter 등)** 구성을 하나의 시스템으로 설계하는 데 관심
 - 팀 프로젝트에서 **펌웨어 개발 + 시스템 구조 설계 + Git 협업** 역할 수행
 
----
+--->
 
 ## 🏅 Highlights
 
@@ -79,7 +79,7 @@
 
 | 분야       | 상세 내용                                                                                   |
 |------------|--------------------------------------------------------------------------------------------|
-| 언어       | C, C++, Embedded C, Python(스크립트), Dart(Flutter 기초)                                   |
+| 언어       | C, C++, Embedded C, Python                                                               |
 | IDE / 툴   | STM32CubeIDE, Keil, VS Code, Qt Creator, App Inventor                                      |
 | 형상관리   | Git / GitHub, 브랜치 전략, 커밋·PR 중심 협업                                               |
 
@@ -112,7 +112,7 @@
   - 로봇 반려견 프로젝트 수행
   - 역할: 펌웨어 설계·구현, 하드웨어 제어, 앱 연동
   - **우수상 수상**
-- 🤖 **Intel Edge AI SW 아카데미**
+- 🤖 **Intel Edge AI SW 아카데미(8기)**
   - ROS + 펌웨어 기반 로봇/임베디드 프로젝트 팀장
   - 하드웨어 제어용 펌웨어와 ROS 노드 연동 구조 설계 및 구현
 - 그 외
