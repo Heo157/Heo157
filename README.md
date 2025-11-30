@@ -42,7 +42,6 @@
 - 🐶 **로봇 반려견 캡스톤 프로젝트 – 학교 캡스톤 디자인 우수상 수상**
 - 🔐 STM32 + FreeRTOS 기반 **RFID·비밀번호 인증 Smart Locker**
 - 📚 RFID 기반 **Smart Library(도서 대여/반납 관리) 시스템 설계**
-- 🚗 AGL(Automotive Grade Linux) + Flutter 기반 **인스트루먼트 클러스터(계기판)** 빌드 및 커스터마이징 시도
 - 🧩 Raspberry Pi 커널 모듈로 **LED/KEY 디바이스 드라이버** 구현
 - 🤖 Intel Edge AI SW 아카데미 – **ROS + 펌웨어 연동 로봇 프로젝트 팀장 경험**
 
