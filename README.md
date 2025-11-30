@@ -3,7 +3,7 @@
   이름 / 링크 / 프로젝트 Repo 주소만 본인 기준으로 수정해서 사용하세요.
 -->
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:002afa&height=120&text=👋%20Hi,%20I'm%20Heo%20Jinkyeong&animation=&fontColor=ffffff&fontSize=70" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:002afa&height=120&text=👋%20Hi,%20I'm%20Heo%20Jinkyeong&animation=&fontColor=000000&fontSize=70" />
 </div>
     
 
