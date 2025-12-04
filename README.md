@@ -19,10 +19,15 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Heo157-black?logo=github)](https://github.com/Heo157)
 ![C](https://img.shields.io/badge/Language-C-informational?logo=c)
 ![C++](https://img.shields.io/badge/Language-C%2B%2B-informational?logo=cplusplus)
+![Python](https://img.shields.io/badge/Language-Python-informational?logo=python)
+
 ![STM32](https://img.shields.io/badge/MCU-STM32-03234B?logo=stmicroelectronics)
 ![Arduino](https://img.shields.io/badge/MCU-Arduino-00878F?logo=arduino)
 ![Raspberry Pi](https://img.shields.io/badge/Board-Raspberry%20Pi-C51A4A?logo=raspberrypi)
 ![Linux](https://img.shields.io/badge/OS-Linux-333333?logo=linux)
+
+![Qt](https://img.shields.io/badge/UI-Qt_Creator-333333?logo=Qt)
+![SQL](https://img.shields.io/badge/DB-SQL-336791?style=flat&logo=mysql&logoColor=white)
 
 </div>
 
