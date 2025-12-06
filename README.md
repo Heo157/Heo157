@@ -133,4 +133,4 @@
 ## 📫 Contact
 
 - GitHub: [@Heo157](https://github.com/Heo157)
-- Email: _heojk1120@gmail.com_
+- Email: heojk1120@gmail.com
