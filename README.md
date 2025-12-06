@@ -16,18 +16,23 @@
 
 ---
 
-[![GitHub](https://img.shields.io/badge/GitHub-Heo157-black?logo=github)](https://github.com/Heo157)
+[![GitHub - Heo157](https://img.shields.io/badge/GitHub-Heo157-black?logo=github)](https://github.com/Heo157)
+
 ![C](https://img.shields.io/badge/Language-C-informational?logo=c)
 ![C++](https://img.shields.io/badge/Language-C%2B%2B-informational?logo=cplusplus)
 ![Python](https://img.shields.io/badge/Language-Python-informational?logo=python)
 
-![STM32](https://img.shields.io/badge/MCU-STM32-03234B?logo=stmicroelectronics)
-![Arduino](https://img.shields.io/badge/MCU-Arduino-00878F?logo=arduino)
-![Raspberry Pi](https://img.shields.io/badge/Board-Raspberry%20Pi-C51A4A?logo=raspberrypi)
-![Linux](https://img.shields.io/badge/OS-Linux-333333?logo=linux)
+![STM32](https://img.shields.io/badge/MCU-STM32-03234B?logo=stmicroelectronics&logoColor=white)
+![Arduino](https://img.shields.io/badge/MCU-Arduino-00878F?logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Board-Raspberry%20Pi-C51A4A?logo=raspberrypi&logoColor=white)
 
-![Qt](https://img.shields.io/badge/UI-Qt_Creator-333333?logo=Qt)
-![SQL](https://img.shields.io/badge/DB-SQL-336791?style=flat&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/OS-Linux-333333?logo=linux)
+![ROS2](https://img.shields.io/badge/Framework-ROS2-22314E?logo=ros&logoColor=white)
+
+![Qt Creator](https://img.shields.io/badge/IDE-Qt%20Creator-41CD52?logo=qt&logoColor=white)
+![SQL](https://img.shields.io/badge/DB-SQL-336791?logo=mysql&logoColor=white)
+![OpenCV](https://img.shields.io/badge/Vision-OpenCV-5C3EE8?logo=opencv&logoColor=white)
+
 
 </div>
 
@@ -44,7 +49,7 @@
 
 ## 🏅 Highlights
 
-- 🐶 **로봇 반려견 캡스톤 프로젝트 – 학교 캡스톤 디자인 우수상 수상**
+- 🐶 **로봇 반려견 캡스톤 프로젝트 – 학교 캡스톤 디자인 🏆우수상 수상**
 - 🔐 STM32 + FreeRTOS 기반 **RFID·비밀번호 인증 Smart Locker**
 - 📚 RFID 기반 **Smart Library(도서 대여/반납 관리) 시스템 설계**
 - 🧩 Raspberry Pi 커널 모듈로 **LED/KEY 디바이스 드라이버** 구현
@@ -75,7 +80,6 @@
 
 | 분야         | 상세 내용                                                                 |
 |--------------|---------------------------------------------------------------------------|
-| AGL Cluster  | Flutter 클러스터 UI 분석, KUKSA-databroker/CAN 연동 구조 이해            |
 | ROS & Robot  | ROS + 펌웨어 연동, 병원 내 자율주행 로봇(전동휠체어) 시나리오 설계 경험  |
 | Sensors      | 카메라·초음파 기반 추종/거리 유지 로직, LiDAR·맵핑 개념 학습 및 실습     |
 
@@ -93,13 +97,13 @@
 
 ### 🎯 Main Projects
 
-- [🐶 **Project-Smart-Pet**](https://github.com/Heo157/Project-Smart-Pet)  
+- [🐶 **Project-Smart-Pet**](https://github.com/Heo157/Project-Smart-Pet)**(2024.09 ~ 2024.12)** <br>
   Pixy2 + 초음파 + 모터 + 블루투스로 사물을 따라가고 감정(LED/사운드) 표현까지 가능한 로봇 반려견 캡스톤 프로젝트.
 
-- [🔐 **Smart Locker (MiniProject-LibrarySystem)**](https://github.com/Heo157/MiniProject-LibrarySystem)  
+- [🔐 **Smart Locker (MiniProject-LibrarySystem)**](https://github.com/Heo157/MiniProject-LibrarySystem)**(2025.08.01 ~ 2025.08.08)** <br>
   STM32 + FreeRTOS 기반, RFID 카드와 비밀번호로 잠금/해제를 제어하는 개인 스마트 사물함.
 
-- [📚 **Smart Library (MiniProject-LibrarySystem)**](https://github.com/Heo157/MiniProject-LibrarySystem)  
+- [📚 **Smart Library (MiniProject-LibrarySystem)**](https://github.com/Heo157/MiniProject-LibrarySystem)**(2025.08.21 ~ 2025.08.25)** <br>
   RFID 태그를 이용해 도서 대여/반납과 사용자 이력을 관리하는 소규모 도서관 시스템(서버·DB 연동 구조 포함).
 
 - **AGL Instrument Cluster** 
