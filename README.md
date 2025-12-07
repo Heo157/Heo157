@@ -63,7 +63,7 @@
 
 | 분야            | 상세 내용                                                                 |
 |-----------------|--------------------------------------------------------------------------|
-| MCU / 보드      | Arduino (Mega, Uno), STM32 (Nucleo/Discovery), ESP-01, Raspberry Pi 4/5  |
+| MCU / 보드      | Arduino (Mega, Uno), STM32 (Nucleo), ESP-01, Raspberry Pi 4/5  |
 | RTOS            | FreeRTOS Task 설계, Task 간 통신/동기화 구조                             |
 | 펌웨어          | HAL 기반 드라이버 제어, 인터럽트, 타이머, PWM, ADC, UART, SPI, I2C       |
 | 주변장치        | RFID(MFRC522), 4x4 키패드, I2C LCD, 초음파 센서, 서보모터, DC모터 등     |
