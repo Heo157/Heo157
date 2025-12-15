@@ -87,8 +87,8 @@
 
 | 분야       | 상세 내용                                                                                   |
 |------------|--------------------------------------------------------------------------------------------|
-| 언어       | C, C++, Embedded C, Python                                                               |
-| IDE / 툴   | STM32CubeIDE, Keil, VS Code, Qt Creator, App Inventor                                      |
+| 언어       | C, C++, Python                                                               |
+| IDE / 툴   | STM32CubeIDE, Keil, VS Code, Qt Creator, Mit App Inventor                                      |
 | 형상관리   | Git / GitHub, 브랜치 전략, 커밋·PR 중심 협업                                               |
 
 ---
