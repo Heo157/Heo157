@@ -102,9 +102,7 @@
   Pixy2 + 초음파 + 모터 + 블루투스로 사물을 따라가고 감정(LED/사운드) 표현까지 가능한 로봇 반려견 캡스톤 프로젝트.
 
 - [🦽 **Hospital Autonomous Wheelchair**](https://github.com/Heo157/Project-Hospital-Autonomous-Wheelchair)**(2025.12 ~ 2026.01)** <br>
-  TurtleBot3 기반 병원(축소 환경) 실내 자율주행 전동휠체어 데모 시스템. 환자 호출 → 호출지 자율주행 → 탑승 감지 → 목적지(진료실/검사실 등) 이동 → 하차 후 스테이션 복귀까지 시나리오를 구현.  
-  ROS2 SLAM/AMCL + Nav2 `navigate_to_pose`로 주행, STM32로 비상정지·탑승감지·초음파 안전센서 처리, Qt(의료진/관제/로컬) UI 및 서버/DB 연동 구조 설계·구현.
-
+  TurtleBot3 기반 병원(축소 환경) 실내 자율주행 전동휠체어 데모 시스템. 
 
 - [🔐 **Smart Locker**](https://github.com/Heo157/MiniProject-LibrarySystem)**(2025.08.01 ~ 2025.08.08)** <br>
   STM32 + FreeRTOS 기반, RFID 카드와 비밀번호로 잠금/해제를 제어하는 개인 스마트 사물함.
