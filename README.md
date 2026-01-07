@@ -104,7 +104,7 @@
 - [🦽 **Hospital Autonomous Wheelchair**](https://github.com/Heo157/Project-Hospital-Autonomous-Wheelchair)**(2025.12 ~ 2026.01)** <br>
   TurtleBot3 기반 병원(축소 환경) 실내 자율주행 전동휠체어 데모 시스템. 
 
-- [🔐 **Smart Locker**](https://github.com/Heo157/MiniProject-LibrarySystem)**(2025.08.01 ~ 2025.08.08)** <br>
+- [🔐 **Smart Locker**](https://github.com/Heo157/MiniProject-SmartLocker)**(2025.08.01 ~ 2025.08.08)** <br>
   STM32 + FreeRTOS 기반, RFID 카드와 비밀번호로 잠금/해제를 제어하는 개인 스마트 사물함.
 
 - [📚 **Smart Library**](https://github.com/Heo157/MiniProject-LibrarySystem)**(2025.08.21 ~ 2025.08.25)** <br>
