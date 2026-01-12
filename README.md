@@ -30,7 +30,7 @@
 ![ROS2](https://img.shields.io/badge/Framework-ROS2-22314E?logo=ros&logoColor=white)
 
 ![Qt Creator](https://img.shields.io/badge/IDE-Qt%20Creator-41CD52?logo=qt&logoColor=white)
-![SQL](https://img.shields.io/badge/DB-SQL-336791?logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/DB-MariaDB-336791?logo=mysql&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/Vision-OpenCV-5C3EE8?logo=opencv&logoColor=white)
 
 
